@@ -99,10 +99,6 @@ Concentration	Con	3 =	+3
 
 Craft_1	Int	3 =	+2+1	
 
-Craft_2	Int	2 =	+2
-
-Craft_3	Int	2 =	+2
-
 Diplomacy	Cha	1 =	+1
 
 Disguise	Cha	5 =	+1 +4	
