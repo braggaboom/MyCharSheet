@@ -14,15 +14,15 @@ Magooble
 
 **Strength**	14	(+2)
 
-**Dexterity**	13	(+1)
+**Dexterity**	13	(-2)
 
-**Constitution**	17	(+3)
+**Constitution**	17	(+2)
 
-**Intelligence**	14	(+2)
+**Intelligence**	14	
 
-**Wisdom**	13	(+1)
+**Wisdom**	13	
 
-**Charisma**	18	(+1)
+**Charisma**	18
 
 **Size:**	Medium
 
