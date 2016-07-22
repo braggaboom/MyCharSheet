@@ -10,19 +10,19 @@ Magooble
 
 **Alignment:** Chaotic Good
 
-**Rolled HP:** 10
+**HP:** 14
 
 **Strength**	14	(+2)
 
 **Dexterity**	13	(-2)
 
-**Constitution**	17	(+2)
+**Constitution**	17	(4+)
 
-**Intelligence**	14	
+**Intelligence**	14	(2+)
 
-**Wisdom**	13	
+**Wisdom**	13	(1+)
 
-**Charisma**	18
+**Charisma**	18	(4+)
 
 **Size:**	Medium
 
