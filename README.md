@@ -22,7 +22,7 @@ Magooble
 
 **Wisdom**	13	(+1)
 
-**Charisma**	19	(+1)
+**Charisma**	18	(+1)
 
 **Size:**	Medium
 
