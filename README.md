@@ -30,14 +30,6 @@ Magooble
 
 **Weight:**	300 lb
 
-**Skin:**	Light
-
-**Eyes:**	Red
-
-**Hair:**	Black Straight; Thick Beard / Hirsute
-
-**Total Hit Points:** 13
-
 **Speed:** 20 feet [armor]
 
 **Armor Class:** 20 = 10 +5 [chainmail] +4 [tower shield] +1 [dexterity]
@@ -61,6 +53,14 @@ Magooble
 **Attack (missile):**	+2	= 1 [base] +1 [dexterity]
 
 **Grapple check:**	+7	= 1 [base] +2 [strength]
+
+**Skin:**	Light
+
+**Eyes:**	Red
+
+**Hair:**	Black Straight; Thick Beard / Hirsute
+
+
 
 Light load:
 Medium load:
