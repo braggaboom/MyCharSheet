@@ -127,14 +127,6 @@ Move Silently	Dex*	1 =	+1
 
 Perform_1	Cha	1 =	+1
 
-Perform_2	Cha	1 =	+1
-
-Perform_3	Cha	1 =	+1
-
-Perform_4	Cha	1 =	+1
-
-Perform_5	Cha	1 =	+1
-
 Ride	Dex	2 =	+1 +1	
 
 Search	Int	2 =	+2
