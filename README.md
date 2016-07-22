@@ -85,9 +85,7 @@ Tower Shield [+4 AC; max dex=+2; check penalty -10; hardness 5; hp 20; 45 lb.]
 
 **Feats:** Blind-fight, Combat Reflexes	
 
-**Traits:**
-
-Skillz
+**Skillz:**
 
 Appraise	Int	2 =	+2
 
